@@ -1,0 +1,8 @@
+Video URL:
+https://whjsgsh36.github.io/player/?list=https://raw.githubusercontent.com/whjsgsh36/9fa91bc125c864d2/refs/heads/master/github_master.m3u8
+
+Embed Code:
+<iframe src="https://whjsgsh36.github.io/player/?list=https://raw.githubusercontent.com/whjsgsh36/9fa91bc125c864d2/refs/heads/master/github_master.m3u8" width="800" height="450" frameborder="0" allowfullscreen></iframe>
+
+Thumbnail URL:
+https://i.ibb.co/JWbF4kD3/Toonworld4all-Haddi-Mera-Buddy-Season-02-Episode-15-02-Sister-grim-576p-x264-Voot-Kids-WEB-DL-Multi.jpg
